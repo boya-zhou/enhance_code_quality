@@ -1,2 +1,2 @@
 # pricinple_computing
-assignment in Coursera Pricinple of Computing
+for enhance code quality, assignment in Coursera Pricinple of Computing
